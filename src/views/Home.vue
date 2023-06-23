@@ -136,6 +136,7 @@ h2 {
   transition: box-shadow 0.3s ease-in-out;
   padding: 14px;
   cursor: pointer;
+  text-align: left;
 }
 
 .item-form--input {
